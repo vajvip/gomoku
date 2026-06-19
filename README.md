@@ -5,6 +5,12 @@ self-contained HTML file — no build step, no dependencies. Just open it in a b
 
 ![Gomoku](https://img.shields.io/badge/platform-web-blue) ![NoDeps](https://img.shields.io/badge/dependencies-0-green) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
+### 🎮 Play Now
+
+👉 **[https://mogoku.netlify.app/](https://mogoku.netlify.app/)**
+
+No install required — open the link and start playing right away in any modern browser (desktop or mobile).
+
 ---
 
 ## ✨ Features
